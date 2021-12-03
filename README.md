@@ -3,4 +3,4 @@ This repository contains my answers to [Advent of Code](https://adventofcode.com
 
 # Tasks solved
 * 2021
-  * Day 1-2
+  * Day 1-3
